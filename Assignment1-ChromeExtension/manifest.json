@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Daivik’s Current Affairs Club",
+  "version": "1.3.0",
+  "description": "Kid-friendly current affairs from RobinAge (RSS), with GKToday called out for extra GK, plus vocabulary, geography, rivers, and a mini-quiz.",
+  "host_permissions": ["https://www.robinage.com/*", "https://robinage.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Daivik — RobinAge + GK fun!"
+  }
+}
