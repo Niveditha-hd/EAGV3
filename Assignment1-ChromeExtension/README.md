@@ -2,6 +2,9 @@
 
 This extension pos up Kid-friendly current affairs from RobinAge (RSS), with GKToday called out for extra GK, plus vocabulary, geography, rivers, and a mini-quiz.
 
+## Youtube link
+* https://youtu.be/eBTI2n0XQjU
+  
 ## 🚀 Features
 * **Current Affairs:** Three current affairs news in "Did you know" format from RobinAge kids newspaper.
 * **Sports:** One sports news.
